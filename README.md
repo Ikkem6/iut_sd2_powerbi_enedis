@@ -13,7 +13,7 @@ Vous pouvez retrouver dans ce repository :
 
 * **Documentation Technique.docx** : Un fichier Word décrivant les fonctionnalités techniques du tableau de bord 
 
-* **Documentation Fonctionnelle** : Un fichier Word expliquant les principales fonctionnalités pratiques du dashboard 
+* **Documentation Fonctionnelle.docx** : Un fichier Word expliquant les principales fonctionnalités pratiques du dashboard 
 
 * **DonneesRhoneEnedisCorV2.zip** : Un fichier zip qui contient à l'intérieur un fichier csv contenant toutes les données nécessaires pour le fonctionnement et les analyses statistiques de l'application
 
