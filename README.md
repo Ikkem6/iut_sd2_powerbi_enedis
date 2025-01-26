@@ -17,7 +17,7 @@ Vous pouvez retrouver dans ce repository :
 
 * **DonneesRhoneEnedisCorV2.csv** : Un fichier csv contenant toutes les données nécessaires pour le fonctionnement et les analyses statistiques de l'application
 
-* **Tableau de Bord Enedis GreenTech.zip** : Un fichier zip qui contient notre tableau de bord sous PowerBI 
+* **Tableau de Bord Enedis GreenTech (Mekki C Oussama N Ilan F).pbix** : Un fichier pbix qui contient notre tableau de bord à ouvrir sous PowerBI 
 
 
 ## 🛠️ Fonctionnalités clés
@@ -62,7 +62,7 @@ Si vous voulez l'utiliser **localement**, vous devez donc télécharger les fich
 
 * **DonneesRhoneEnedisCorV2.csv** : Le fichier csv contenant toutes les données du tableau de bord
 
-* **Tableau de Bord Enedis GreenTech (Mekki C Oussama N Ilan F).zip** : Un fichier zip contenant le dashboard, à ouvrir dans PowerBI
+* **Tableau de Bord Enedis GreenTech (Mekki C Oussama N Ilan F).pbix** : Un fichier pbix contenant le dashboard PowerBI
 
 *N'oubliez pas d'abord de paramétrer l'emplacement de la source des données lors de la première ouverture du tableau de bord*
 
