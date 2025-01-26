@@ -45,7 +45,7 @@ Vous pouvez retrouver dans ce repository :
 ## 📥 Données utilisées
 
 
-- **API publique du jeu de données : DPE Logements existants (depuis juillet 2021)** : Données publiques fournies par le gouvernement français ou les collectivités locales sur les étiquettes DPE et GES des logements existants en France.(https://data.ademe.fr/datasets/dpe-v2-logements-existants/api-doc)
+- **API publique du jeu de données : DPE Logements existants (depuis juillet 2021)** : Données publiques fournies par le gouvernement français ou les collectivités locales sur les étiquettes DPE et GES des logements existants en France. (https://data.ademe.fr/datasets/dpe-v2-logements-existants/api-doc)
 
 - **API publique du jeu de données : DPE Logements neufs (depuis juillet 2021)** : Données publiques fournies par le gouvernement français ou les collectivités locales sur les étiquettes DPE et GES des logements neufs en France. (https://data.ademe.fr/datasets/dpe-v2-logements-neufs/api-doc)
 
