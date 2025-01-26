@@ -70,7 +70,7 @@ Si vous voulez l'utiliser **localement**, vous devez donc télécharger les fich
 
 Vous pouvez également directement visualiser l'application **en ligne** via PowerBI App grâce au lien suivant :
 
-
+https://app.powerbi.com/links/wFC5ixcDIR?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
 *L'accès en ligne est seulement disponible pour ceux ayant les autorisations requises*
 
